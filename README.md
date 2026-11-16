@@ -23,3 +23,5 @@ npm run build
 ```
 
 The site is static: publish `index.html` and the generated `styles.css` together. Google Fonts and the hero image currently load from external URLs. Replace the fictional brand, sample `hello@northstar.example` email address, and image before publishing for a real business.
+
+hi
